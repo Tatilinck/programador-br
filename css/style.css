@@ -1,4 +1,10 @@
 
-#principal{
+#principal
+{
   color: brown;
+  background-image: url();
 }
+
+#titulo{color: green;}
+
+.texto-rosa{color: pink;}
